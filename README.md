@@ -1,5 +1,5 @@
 # DocuChat
-# PDF RAG Application
+
 
 A Retrieval-Augmented Generation (RAG) application built with:
 
